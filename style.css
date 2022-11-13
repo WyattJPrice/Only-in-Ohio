@@ -1,6 +1,10 @@
 body {
     background-color: black;
 }
+ .mySlides {
+    margin: auto;
+ }
+ 
 .w3-display-container {
     width: 100%;
 }
