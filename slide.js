@@ -3,7 +3,8 @@ showDivs(slideIndex);
 
 function plusDivs(n) {
   showDivs(slideIndex += n);
-  $('#video').get(0).pause();
+  var vid = document.getElementById("video");
+  vid.pause()
 }
 
 function showDivs(n) {
