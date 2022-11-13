@@ -4,7 +4,9 @@ showDivs(slideIndex);
 function plusDivs(n) {
   showDivs(slideIndex += n);
   var vid = document.getElementById("video");
-  vid.pause()
+  var vid2 = document.getElementById("video2");
+  vid.pause();
+  vid2.pause();
 }
 
 function showDivs(n) {
