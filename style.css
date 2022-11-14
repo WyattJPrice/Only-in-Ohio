@@ -6,13 +6,11 @@ body {
  }
 
 img {
-    width: 100%; /* or any custom size */
-    height: 100%; 
+    width: 75%; /* or any custom size */
     object-fit: contain;
 }
 
 video {
-    width: 100%; /* or any custom size */
-    height: 100%; 
+    width: 75%;
     object-fit: contain;
 }
