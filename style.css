@@ -14,3 +14,15 @@ video {
     width: 75%;
     object-fit: contain;
 }
+
+* {
+    color: white !important;
+}
+
+.info {
+    cursor: pointer;
+    color: white;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
