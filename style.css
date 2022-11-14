@@ -20,9 +20,6 @@ video {
 }
 
 .info {
-    background-color: white;
-    -webkit-mask: url(/info.svg) no-repeat center;
-    mask: url(/info.svg) no-repeat center;
     position: absolute;
     top: 15px;
     left: 15px;
