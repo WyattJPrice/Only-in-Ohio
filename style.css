@@ -31,8 +31,6 @@ video {
 p {
   font-size: 135%;
   text-align: center;
-  background-color: black;
-  padding: 10px;
 }
 
 .popup {
@@ -40,14 +38,7 @@ p {
   padding-left:4em;
   padding-right:4em;
   border-radius: 12px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 1;
 }
-
-
 
 .exit {
         background-color: gray;
