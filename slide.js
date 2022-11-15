@@ -1,3 +1,14 @@
+const popup = document.getElementsByClassName('popup');
+
+function info(); {
+  popup.showModal();
+}
+
+function exit(); {
+  popup.close();
+}
+
+
 var slideIndex = 1;
 showDivs(slideIndex);
 
