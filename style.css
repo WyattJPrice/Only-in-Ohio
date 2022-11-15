@@ -27,3 +27,39 @@ video {
   width: 50px;
   height: 50px;
 }
+
+p {
+  font-size: 135%;
+  text-align: center;
+}
+
+.popup {
+  background-color: white;
+  padding-left:4em;
+  padding-right:4em;
+  border-radius: 12px;
+}
+
+.exit {
+        background-color: gray;
+        border: none;
+        color: black;
+        padding: 5px 19px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin: 2px 2px;
+        cursor: pointer;
+}
+
+a {
+        background-color: black;
+        border: none;
+        color: white;
+        padding: 10px 24px;
+        text-decoration: none;
+        display: inline-block;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 25px;
+}
