@@ -2,19 +2,17 @@ body {
 	background-color: black;
 }
 
-.mySlides {
-	margin: auto;
-}
-
 img {
 	width: 75%;
 	/* or any custom size */
 	object-fit: contain;
+  margin: auto;
 }
 
 video {
 	width: 75%;
 	object-fit: contain;
+  margin: auto;
 }
 
 * {
