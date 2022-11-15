@@ -63,3 +63,7 @@ a {
 	cursor: pointer;
 	border-radius: 25px;
 }
+
+.text {
+	vertical-align: top;
+}
