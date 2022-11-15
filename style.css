@@ -31,6 +31,8 @@ video {
 p {
   font-size: 135%;
   text-align: center;
+  background-color: black;
+  padding: 10px;
 }
 
 .popup {
