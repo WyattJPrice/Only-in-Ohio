@@ -1,65 +1,67 @@
 body {
-  background-color: black;
+	background-color: black;
 }
+
 .mySlides {
-  margin: auto;
+	margin: auto;
 }
 
 img {
-  width: 75%; /* or any custom size */
-  object-fit: contain;
+	width: 75%;
+	/* or any custom size */
+	object-fit: contain;
 }
 
 video {
-  width: 75%;
-  object-fit: contain;
+	width: 75%;
+	object-fit: contain;
 }
 
 * {
-  color: white !important;
+	color: white !important;
 }
 
 .info {
-  position: absolute;
-  top: 15px;
-  left: 15px;
-  cursor: pointer;
-  width: 50px;
-  height: 50px;
+	position: absolute;
+	top: 15px;
+	left: 15px;
+	cursor: pointer;
+	width: 50px;
+	height: 50px;
 }
 
 p {
-  font-size: 135%;
-  text-align: center;
+	font-size: 135%;
+	text-align: center;
 }
 
 .popup {
-  background-color: white;
-  padding-left:4em;
-  padding-right:4em;
-  border-radius: 12px;
+	background-color: white;
+	padding-left: 4em;
+	padding-right: 4em;
+	border-radius: 12px;
 }
 
 .exit {
-        background-color: gray;
-        border: none;
-        color: black;
-        padding: 5px 19px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        margin: 2px 2px;
-        cursor: pointer;
+	background-color: gray;
+	border: none;
+	color: black;
+	padding: 5px 19px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 2px 2px;
+	cursor: pointer;
 }
 
 a {
-        background-color: black;
-        border: none;
-        color: white;
-        padding: 10px 24px;
-        text-decoration: none;
-        display: inline-block;
-        margin: 4px 2px;
-        cursor: pointer;
-        border-radius: 25px;
+	background-color: black;
+	border: none;
+	color: white;
+	padding: 10px 24px;
+	text-decoration: none;
+	display: inline-block;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 25px;
 }
