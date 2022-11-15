@@ -21,3 +21,14 @@ function showDivs(n) {
    }
    x[slideIndex - 1].style.display = "block";
 }
+
+function amazing() {
+   window.addEventListener('keydown', function (e) {
+    if (e.key == "ArrowLeft") {
+      plusDivs(-1);
+    }
+    if (e.key == "ArrowRight") {
+    plusDivs(1);
+    }
+  }, false); 
+}
