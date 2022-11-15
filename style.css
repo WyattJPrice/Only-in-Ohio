@@ -74,3 +74,10 @@ a {
 	margin: 2px 2px;
 	cursor: pointer;
 }
+
+.wman {
+	text-align: center;
+	color: white;
+	background-color: gray;
+	padding: 4px;
+}
