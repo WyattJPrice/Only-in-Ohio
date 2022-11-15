@@ -65,5 +65,12 @@ a {
 }
 
 .text {
-	z-index: 2;
+	background-color: black;
+	border: none;
+	padding: 10px 24px;
+	text-decoration: none;
+	display: inline-block;
+	border-radius: 12px;
+	margin: 2px 2px;
+	cursor: pointer;
 }
