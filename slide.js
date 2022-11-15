@@ -1,11 +1,3 @@
-const openbutton = document.getElementById('open');
-const closebutton = document.getElementById('close');
-const popup = document.getElementById('popup');
-
-function openpop(); {
-  popup.showModal();
-}
-
 var slideIndex = 1;
 showDivs(slideIndex);
 
