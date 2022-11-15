@@ -12,7 +12,7 @@ img {
 video {
 	width: 75%;
 	object-fit: contain;
-  margin: auto;
+  	margin: auto;
 }
 
 * {
