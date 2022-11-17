@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Only in Ohio",
+    "short_name": "Ohio",
     "icons": [
         {
             "src": "/android-chrome-144x144.png",
@@ -9,6 +9,6 @@
         }
     ],
     "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "background_color": "#000000",
     "display": "standalone"
 }
