@@ -1,4 +1,4 @@
-# Only-in-Ohi
+# Only-in-Ohio
 [Visit It Here][Visit it Here]
 An amazing website with some goofy things
 
