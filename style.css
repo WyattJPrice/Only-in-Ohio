@@ -81,22 +81,3 @@ a {
 	background-color: gray;
 	padding: 4px;
 }
-
-
-        /* Makes the animation pause on hover */
-        .moving-text:hover{
-            animation-play-state: paused;
-        }
- 
-        /* The animation */
-        @keyframes marquee{
-            0%{transform: translateX(80%);}
-            80%{transform: translateX(-80%);}
-        }
- 
-        /* media query to enable animation for only those who want it */
-        @media (prefers-reduced-motion: no-preference) {
-            .moving-text{
-                animation: marquee 13s linear infinite;
-            }
-        }
